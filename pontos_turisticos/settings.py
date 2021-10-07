@@ -32,7 +32,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG', default=False, cast=bool)
 
-ALLOWED_HOSTS = ['pontos-turisticos.herokuapp.com/', 'localhost:8000', 'treino-django.herokuapp.com/ ', '127.0.0.1']
+ALLOWED_HOSTS = ['pontos-turisticos.herokuapp.com/', 'localhost:8000', 'treino-django.herokuapp.com/ ', '127.0.0.1',
+                 'https://treino-django.herokuapp.com/']
 
 
 # Application definition
