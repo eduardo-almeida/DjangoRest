@@ -6,7 +6,6 @@ django-filter==21.1
 django-project==0.7
 djangorestframework==3.12.4
 filter==0.0.0.20200724
-gunicorn==20.1.0
 Pillow==8.3.2
 psycopg2==2.9.1
 python-decouple==3.5
