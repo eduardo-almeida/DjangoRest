@@ -1,1 +1,1 @@
-web: gunicorn pontoturistico.wsgi
+web: gunicorn DjangoRest.wsgi

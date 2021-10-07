@@ -1,4 +1,4 @@
-#!C:\PyCharm\Django\pontos_turisticos\venv\Scripts\python.exe
+#!C:\PyCharm\Django\DjangoRest\venv\Scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
