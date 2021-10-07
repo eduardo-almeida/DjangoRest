@@ -1,1 +1,1 @@
-web: gunicorn DjangoRest.wsgi:application --log-file -
+web: gunicorn pontos_turisticos.wsgi:application --log-file -
